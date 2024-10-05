@@ -46,14 +46,14 @@ Povezava do vsebin [Uvod v Python](https://github.com/as-grm/python_class)
 
 ### Osnove numeričnih izračunov
 
-Povezava do vsebin [Osnove numeričnih izračunov](https://gitlab.com/aleksander_grm/opi-class/-/tree/main/02_basics_numerics)
+Povezava do vsebin [Osnove numeričnih izračunov](https://github.com/as-grm/python_class)
 
 
 ### Napredni numerični izračuni
 
-Povezava do vsebin [Napredni numerični izračuni](https://gitlab.com/aleksander_grm/opi-class/-/tree/main/03_advanced_numerics)
+Povezava do vsebin [Napredni numerični izračuni](https://github.com/as-grm/opi_class/tree/main/02_advanced_numerics)
 
 
 ### Integracija Python z zunanjimi knjižnjicami
 
-Povezava do vsebin [Integracija Python z zunanjimi knjižnjicami](https://gitlab.com/aleksander_grm/opi-class/-/tree/main/04_integration_python_shared-libs)
+Povezava do vsebin [Integracija Python z zunanjimi knjižnjicami](https://github.com/as-grm/opi_class/tree/main/03_integration_python_shared-libs)
