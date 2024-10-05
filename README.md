@@ -42,7 +42,7 @@ Program **Hidrodinamike plavajočih morskih struktur** je razdeljen v štiri faz
 
 ### Uvod v Python
 
-Povezava do vsebin [Uvod v Python](https://gitlab.com/aleksander_grm/opi-class/-/tree/main/01_introduction_python)
+Povezava do vsebin [Uvod v Python](https://github.com/as-grm/python_class)
 
 ### Osnove numeričnih izračunov
 
